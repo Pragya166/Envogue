@@ -25,16 +25,16 @@
                 <a class="nav-link" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="blog.html">Blog</a>
+                <a class="nav-link" href="#">Blog</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="login.php">Shop</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="aboutus.html">About Us</a>
+                <a class="nav-link" href="#">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="#contacts">Contact Us</a>
               </li>
               <li class="nav-item">
                 <i class="fal fa-search"></i>
